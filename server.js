@@ -92,3 +92,5 @@ app.post("/api/characters", function(req, res) {
 app.listen(PORT, function() {
   console.log("App listening on PORT " + PORT);
 });
+
+console.log("hi")
